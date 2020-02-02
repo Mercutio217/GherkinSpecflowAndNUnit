@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GherkingWithNunit", "GherkingWithNunit\GherkingWithNunit.csproj", "{30FD5485-C777-4CFD-89D8-DA29A1FCFAA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgorInvalid", "Ogor\OgorInvalid.csproj", "{6844B483-6B85-4310-BBE9-8DDF71F752F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GherkinValid", "GherkinValid\GherkinValid.csproj", "{B6B8F394-2F38-454A-9E5B-981145D3EE63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitTests", "NunitTests\NunitTests.csproj", "{A8838E10-9F32-41BD-89A9-08A884EF7DE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30FD5485-C777-4CFD-89D8-DA29A1FCFAA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FD5485-C777-4CFD-89D8-DA29A1FCFAA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30FD5485-C777-4CFD-89D8-DA29A1FCFAA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30FD5485-C777-4CFD-89D8-DA29A1FCFAA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6844B483-6B85-4310-BBE9-8DDF71F752F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6844B483-6B85-4310-BBE9-8DDF71F752F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6844B483-6B85-4310-BBE9-8DDF71F752F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6844B483-6B85-4310-BBE9-8DDF71F752F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B8F394-2F38-454A-9E5B-981145D3EE63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B8F394-2F38-454A-9E5B-981145D3EE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B8F394-2F38-454A-9E5B-981145D3EE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B8F394-2F38-454A-9E5B-981145D3EE63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8838E10-9F32-41BD-89A9-08A884EF7DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8838E10-9F32-41BD-89A9-08A884EF7DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8838E10-9F32-41BD-89A9-08A884EF7DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8838E10-9F32-41BD-89A9-08A884EF7DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40E4D7AD-1562-4B66-80BE-A7426156D765}
+	EndGlobalSection
+EndGlobal
